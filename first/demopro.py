@@ -1,2 +1,2 @@
 print("jhebfhfbefjv")
-hfyugfygyjuh
+print("hfyugfygyjuh")
